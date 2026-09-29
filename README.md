@@ -110,23 +110,6 @@ The system encrypts sensitive private keys and intelligently hides them inside d
 
 
 
-## 👨‍💻 Team Members
-
-* Bandaru Harika Sai Sri
-* Prajwal Dixit
-* Puppala Sivamani
-* Sathi Lakshmi Durga
-
-
-
-## 🎓 Academic Information
-
-**Department:** CSE - Artificial Intelligence & Machine Learning
-**College:** Aditya College of Engineering & Technology (A)
-**Academic Year:** 2022–2026 
-
-
-
 ## 📚 References
 
 * [https://arxiv.org/abs/2012.02494](https://arxiv.org/abs/2012.02494)
